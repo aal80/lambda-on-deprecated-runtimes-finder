@@ -23,15 +23,21 @@ class CloudwatchLogsHelper{
         try {
             const res = await cloudWatchLogsClient.send(command);
             if (res.logStreams.length===0){
-                throw new Error('No log streams found');
+                f.lastLogEventTimestamp = 'No log events found';
+                f.daysSinceLastLogEvent = 'No log events found';
             } else {
                 const daysSinceLastEvent = parseInt((new Date() - res.logStreams[0].lastEventTimestamp)/1000/60/60/24);
                 f.lastLogEventTimestamp = new Date(res.logStreams[0].lastEventTimestamp);
                 f.daysSinceLastLogEvent = daysSinceLastEvent;
             }
         } catch(e){
-            f.lastLogEventTimestamp = `ERR: ${e.message}`;
-            f.daysSinceLastLogEvent = `ERR: ${e.message}`;
+            if (e.name==="ResourceNotFoundException"){
+                f.lastLogEventTimestamp = 'No log events found';
+                f.daysSinceLastLogEvent = 'No log events found';
+            } else {
+                f.lastLogEventTimestamp = `ERR: ${e.message}`;
+                f.daysSinceLastLogEvent = `ERR: ${e.message}`;
+            }
         }
         // console.log(f);
     }
