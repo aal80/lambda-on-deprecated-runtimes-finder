@@ -1,6 +1,14 @@
 {
-    "updatedAt": "2024-09-11T22:11:04.026Z",
+    "updatedAt": "2024-09-12T22:11:04.323Z",
     "deprecatedRuntimesData": [
+        {
+            "name": "Node.js 18",
+            "id": "nodejs18.x",
+            "os": "Amazon Linux 2",
+            "deprecationDate": "Jul 31, 2025",
+            "blockFunctionCreateDate": "Sep 1, 2025",
+            "blockFunctionUpdateDate": "Oct 1, 2025"
+        },
         {
             "name": "Python 3.8",
             "id": "python3.8",
