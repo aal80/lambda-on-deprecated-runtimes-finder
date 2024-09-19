@@ -1,6 +1,14 @@
 {
-    "updatedAt": "2024-09-18T22:11:04.105Z",
+    "updatedAt": "2024-09-19T22:11:04.286Z",
     "deprecatedRuntimesData": [
+        {
+            "name": "Node.js 20",
+            "id": "nodejs20.x",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
         {
             "name": "Node.js 18",
             "id": "nodejs18.x",
@@ -8,6 +16,38 @@
             "deprecationDate": "Jul 31, 2025",
             "blockFunctionCreateDate": "Sep 1, 2025",
             "blockFunctionUpdateDate": "Oct 1, 2025"
+        },
+        {
+            "name": "Python 3.12",
+            "id": "python3.12",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
+            "name": "Python 3.11",
+            "id": "python3.11",
+            "os": "Amazon Linux 2",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
+            "name": "Python 3.10",
+            "id": "python3.10",
+            "os": "Amazon Linux 2",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
+            "name": "Python 3.9",
+            "id": "python3.9",
+            "os": "Amazon Linux 2",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
         },
         {
             "name": "Python 3.8",
@@ -18,12 +58,84 @@
             "blockFunctionUpdateDate": "Mar 31, 2025"
         },
         {
+            "name": "Java 21",
+            "id": "java21",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
+            "name": "Java 17",
+            "id": "java17",
+            "os": "Amazon Linux 2",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
+            "name": "Java 11",
+            "id": "java11",
+            "os": "Amazon Linux 2",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
+            "name": "Java 8",
+            "id": "java8.al2",
+            "os": "Amazon Linux 2",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
+            "name": ".NET 8",
+            "id": "dotnet8",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
             "name": ".NET 6",
             "id": "dotnet6",
             "os": "Amazon Linux 2",
             "deprecationDate": "Dec 20, 2024",
             "blockFunctionCreateDate": "Feb 28, 2025",
             "blockFunctionUpdateDate": "Mar 31, 2025"
+        },
+        {
+            "name": "Ruby 3.3",
+            "id": "ruby3.3",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
+            "name": "Ruby 3.2",
+            "id": "ruby3.2",
+            "os": "Amazon Linux 2",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
+            "name": "OS-only Runtime",
+            "id": "provided.al2023",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
+            "name": "OS-only Runtime",
+            "id": "provided.al2",
+            "os": "Amazon Linux 2",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
         },
         {
             "name": "Node.js 16",
@@ -38,8 +150,8 @@
             "id": "dotnet7",
             "os": "Amazon Linux 2",
             "deprecationDate": "May 14, 2024",
-            "blockFunctionCreateDate": "",
-            "blockFunctionUpdateDate": ""
+            "blockFunctionCreateDate": "N/A",
+            "blockFunctionUpdateDate": "N/A"
         },
         {
             "name": "Java 8",
@@ -118,8 +230,8 @@
             "id": "dotnet5.0",
             "os": "Amazon Linux 2",
             "deprecationDate": "May 10, 2022",
-            "blockFunctionCreateDate": "",
-            "blockFunctionUpdateDate": ""
+            "blockFunctionCreateDate": "N/A",
+            "blockFunctionUpdateDate": "N/A"
         },
         {
             "name": ".NET Core 2.1",
@@ -158,7 +270,7 @@
             "id": "nodejs8.10",
             "os": "Amazon Linux",
             "deprecationDate": "Mar 6, 2020",
-            "blockFunctionCreateDate": "",
+            "blockFunctionCreateDate": "N/A",
             "blockFunctionUpdateDate": "Mar 6, 2020"
         },
         {
@@ -166,7 +278,7 @@
             "id": "nodejs4.3",
             "os": "Amazon Linux",
             "deprecationDate": "Mar 5, 2020",
-            "blockFunctionCreateDate": "",
+            "blockFunctionCreateDate": "N/A",
             "blockFunctionUpdateDate": "Mar 5, 2020"
         },
         {
@@ -174,7 +286,7 @@
             "id": "nodejs4.3-edge",
             "os": "Amazon Linux",
             "deprecationDate": "Mar 5, 2020",
-            "blockFunctionCreateDate": "",
+            "blockFunctionCreateDate": "N/A",
             "blockFunctionUpdateDate": "Apr 30, 2019"
         },
         {
@@ -183,14 +295,14 @@
             "os": "Amazon Linux",
             "deprecationDate": "Aug 12, 2019",
             "blockFunctionCreateDate": "Aug 12, 2019",
-            "blockFunctionUpdateDate": ""
+            "blockFunctionUpdateDate": "N/A"
         },
         {
             "name": ".NET Core 1.0",
             "id": "dotnetcore1.0",
             "os": "Amazon Linux",
             "deprecationDate": "Jun 27, 2019",
-            "blockFunctionCreateDate": "",
+            "blockFunctionCreateDate": "N/A",
             "blockFunctionUpdateDate": "Jul 30, 2019"
         },
         {
@@ -198,15 +310,15 @@
             "id": "dotnetcore2.0",
             "os": "Amazon Linux",
             "deprecationDate": "May 30, 2019",
-            "blockFunctionCreateDate": "",
+            "blockFunctionCreateDate": "N/A",
             "blockFunctionUpdateDate": "May 30, 2019"
         },
         {
             "name": "Node.js 0.10",
             "id": "nodejs",
             "os": "Amazon Linux",
-            "deprecationDate": "",
-            "blockFunctionCreateDate": "",
+            "deprecationDate": "N/A",
+            "blockFunctionCreateDate": "N/A",
             "blockFunctionUpdateDate": "Oct 31, 2016"
         }
     ]
