@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2024-12-19T22:11:04.361Z",
+    "updatedAt": "2024-12-20T22:11:04.154Z",
     "deprecatedRuntimesData": [
         {
             "name": "Node.js 22",
@@ -106,14 +106,6 @@
             "blockFunctionUpdateDate": "Not scheduled"
         },
         {
-            "name": ".NET 6",
-            "id": "dotnet6",
-            "os": "Amazon Linux 2",
-            "deprecationDate": "Dec 20, 2024",
-            "blockFunctionCreateDate": "Feb 28, 2025",
-            "blockFunctionUpdateDate": "Mar 31, 2025"
-        },
-        {
             "name": "Ruby 3.3",
             "id": "ruby3.3",
             "os": "Amazon Linux 2023",
@@ -144,6 +136,14 @@
             "deprecationDate": "Not scheduled",
             "blockFunctionCreateDate": "Not scheduled",
             "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
+            "name": ".NET 6",
+            "id": "dotnet6",
+            "os": "Amazon Linux 2",
+            "deprecationDate": "Dec 20, 2024",
+            "blockFunctionCreateDate": "Feb 28, 2025",
+            "blockFunctionUpdateDate": "Mar 31, 2025"
         },
         {
             "name": "Python 3.8",
