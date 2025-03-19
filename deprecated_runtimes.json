@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2025-03-18T22:11:03.835Z",
+    "updatedAt": "2025-03-19T22:11:04.034Z",
     "deprecatedRuntimesData": [
         {
             "name": "Node.js 22",
@@ -294,7 +294,7 @@
             "id": "nodejs8.10",
             "os": "Amazon Linux",
             "deprecationDate": "Mar 6, 2020",
-            "blockFunctionCreateDate": "N/A",
+            "blockFunctionCreateDate": "Feb 4, 2020",
             "blockFunctionUpdateDate": "Mar 6, 2020"
         },
         {
@@ -302,7 +302,7 @@
             "id": "nodejs4.3",
             "os": "Amazon Linux",
             "deprecationDate": "Mar 5, 2020",
-            "blockFunctionCreateDate": "N/A",
+            "blockFunctionCreateDate": "Feb 3, 2020",
             "blockFunctionUpdateDate": "Mar 5, 2020"
         },
         {
@@ -310,7 +310,7 @@
             "id": "nodejs4.3-edge",
             "os": "Amazon Linux",
             "deprecationDate": "Mar 5, 2020",
-            "blockFunctionCreateDate": "N/A",
+            "blockFunctionCreateDate": "Mar 31, 2019",
             "blockFunctionUpdateDate": "Apr 30, 2019"
         },
         {
@@ -318,15 +318,15 @@
             "id": "nodejs6.10",
             "os": "Amazon Linux",
             "deprecationDate": "Aug 12, 2019",
-            "blockFunctionCreateDate": "Aug 12, 2019",
-            "blockFunctionUpdateDate": "N/A"
+            "blockFunctionCreateDate": "Jul 12, 2019",
+            "blockFunctionUpdateDate": "Aug 12, 2019"
         },
         {
             "name": ".NET Core 1.0",
             "id": "dotnetcore1.0",
             "os": "Amazon Linux",
             "deprecationDate": "Jun 27, 2019",
-            "blockFunctionCreateDate": "N/A",
+            "blockFunctionCreateDate": "Jun 30, 2019",
             "blockFunctionUpdateDate": "Jul 30, 2019"
         },
         {
@@ -334,15 +334,15 @@
             "id": "dotnetcore2.0",
             "os": "Amazon Linux",
             "deprecationDate": "May 30, 2019",
-            "blockFunctionCreateDate": "N/A",
+            "blockFunctionCreateDate": "Apr 30, 2019",
             "blockFunctionUpdateDate": "May 30, 2019"
         },
         {
             "name": "Node.js 0.10",
             "id": "nodejs",
             "os": "Amazon Linux",
-            "deprecationDate": "N/A",
-            "blockFunctionCreateDate": "N/A",
+            "deprecationDate": "Aug 30, 2016",
+            "blockFunctionCreateDate": "Sep 30, 2016",
             "blockFunctionUpdateDate": "Oct 31, 2016"
         }
     ]
