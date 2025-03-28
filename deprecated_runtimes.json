@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2025-03-27T22:11:03.944Z",
+    "updatedAt": "2025-03-28T22:11:04.223Z",
     "deprecatedRuntimesData": [
         {
             "name": "Node.js 22",
@@ -112,6 +112,14 @@
             "deprecationDate": "Nov 10, 2026",
             "blockFunctionCreateDate": "Dec 10, 2026",
             "blockFunctionUpdateDate": "Jan 11, 2027"
+        },
+        {
+            "name": "Ruby 3.4",
+            "id": "ruby3.4",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
         },
         {
             "name": "Ruby 3.3",
