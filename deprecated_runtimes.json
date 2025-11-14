@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2025-11-13T22:11:04.238Z",
+    "updatedAt": "2025-11-14T22:11:04.461Z",
     "deprecatedRuntimesData": [
         {
             "name": "Node.js 22",
@@ -16,6 +16,14 @@
             "deprecationDate": "Apr 30, 2026",
             "blockFunctionCreateDate": "Jun 1, 2026",
             "blockFunctionUpdateDate": "Jul 1, 2026"
+        },
+        {
+            "name": "Python 3.14",
+            "id": "python3.14",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Jun 30, 2029",
+            "blockFunctionCreateDate": "Jul 31, 2029",
+            "blockFunctionUpdateDate": "Aug 31, 2029"
         },
         {
             "name": "Python 3.13",
@@ -54,8 +62,16 @@
             "id": "python3.9",
             "os": "Amazon Linux 2",
             "deprecationDate": "Dec 15, 2025",
-            "blockFunctionCreateDate": "Feb 3, 2026",
-            "blockFunctionUpdateDate": "Mar 9, 2026"
+            "blockFunctionCreateDate": "Jun 1, 2026",
+            "blockFunctionUpdateDate": "Jul 1, 2026"
+        },
+        {
+            "name": "Java 25",
+            "id": "java25",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Jun 30, 2029",
+            "blockFunctionCreateDate": "Jul 31, 2029",
+            "blockFunctionUpdateDate": "Aug 31, 2029"
         },
         {
             "name": "Java 21",
@@ -93,7 +109,7 @@
             "name": ".NET 9 (container only)",
             "id": "dotnet9",
             "os": "Amazon Linux 2023",
-            "deprecationDate": "Not scheduled",
+            "deprecationDate": "Nov 10, 2026",
             "blockFunctionCreateDate": "Not scheduled",
             "blockFunctionUpdateDate": "Not scheduled"
         },
@@ -109,9 +125,9 @@
             "name": "Ruby 3.4",
             "id": "ruby3.4",
             "os": "Amazon Linux 2023",
-            "deprecationDate": "Not scheduled",
-            "blockFunctionCreateDate": "Not scheduled",
-            "blockFunctionUpdateDate": "Not scheduled"
+            "deprecationDate": "Mar 31, 2028",
+            "blockFunctionCreateDate": "Apr 30, 2028",
+            "blockFunctionUpdateDate": "May 31, 2028"
         },
         {
             "name": "Ruby 3.3",
@@ -126,8 +142,8 @@
             "id": "ruby3.2",
             "os": "Amazon Linux 2",
             "deprecationDate": "Mar 31, 2026",
-            "blockFunctionCreateDate": "Apr 30, 2026",
-            "blockFunctionUpdateDate": "May 31, 2026"
+            "blockFunctionCreateDate": "Jun 1, 2026",
+            "blockFunctionUpdateDate": "Jul 1, 2026"
         },
         {
             "name": "OS-only Runtime",
