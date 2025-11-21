@@ -1,6 +1,14 @@
 {
-    "updatedAt": "2025-11-20T22:11:04.453Z",
+    "updatedAt": "2025-11-21T22:11:04.274Z",
     "deprecatedRuntimesData": [
+        {
+            "name": "Node.js 24",
+            "id": "nodejs24.x",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Apr 30, 2028",
+            "blockFunctionCreateDate": "Jun 1, 2028",
+            "blockFunctionUpdateDate": "Jul 1, 2028"
+        },
         {
             "name": "Node.js 22",
             "id": "nodejs22.x",
