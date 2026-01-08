@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-01-07T22:11:04.635Z",
+    "updatedAt": "2026-01-08T22:11:04.562Z",
     "deprecatedRuntimesData": [
         {
             "name": "Node.js 24",
@@ -104,6 +104,14 @@
             "deprecationDate": "Jun 30, 2026",
             "blockFunctionCreateDate": "Jul 31, 2026",
             "blockFunctionUpdateDate": "Aug 31, 2026"
+        },
+        {
+            "name": ".NET 10",
+            "id": "dotnet10",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Nov 14, 2028",
+            "blockFunctionCreateDate": "Dec 14, 2028",
+            "blockFunctionUpdateDate": "Jan 15, 2029"
         },
         {
             "name": ".NET 9 (container only)",
