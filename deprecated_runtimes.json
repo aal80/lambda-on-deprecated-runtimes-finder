@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-01-21T22:11:04.169Z",
+    "updatedAt": "2026-01-22T22:11:04.526Z",
     "deprecatedRuntimesData": [
         {
             "name": "Node.js 24",
@@ -22,8 +22,8 @@
             "id": "nodejs20.x",
             "os": "Amazon Linux 2023",
             "deprecationDate": "Apr 30, 2026",
-            "blockFunctionCreateDate": "Jun 1, 2026",
-            "blockFunctionUpdateDate": "Jul 1, 2026"
+            "blockFunctionCreateDate": "Aug 31, 2026",
+            "blockFunctionUpdateDate": "Sep 30, 2026"
         },
         {
             "name": "Python 3.14",
@@ -53,17 +53,17 @@
             "name": "Python 3.11",
             "id": "python3.11",
             "os": "Amazon Linux 2",
-            "deprecationDate": "Jun 30, 2026",
-            "blockFunctionCreateDate": "Jul 31, 2026",
-            "blockFunctionUpdateDate": "Aug 31, 2026"
+            "deprecationDate": "Jun 30, 2027",
+            "blockFunctionCreateDate": "Jul 31, 2027",
+            "blockFunctionUpdateDate": "Aug 31, 2027"
         },
         {
             "name": "Python 3.10",
             "id": "python3.10",
             "os": "Amazon Linux 2",
-            "deprecationDate": "Jun 30, 2026",
-            "blockFunctionCreateDate": "Jul 31, 2026",
-            "blockFunctionUpdateDate": "Aug 31, 2026"
+            "deprecationDate": "Oct 31, 2026",
+            "blockFunctionCreateDate": "Nov 30, 2026",
+            "blockFunctionUpdateDate": "Jan 15, 2027"
         },
         {
             "name": "Java 25",
@@ -85,25 +85,25 @@
             "name": "Java 17",
             "id": "java17",
             "os": "Amazon Linux 2",
-            "deprecationDate": "Jun 30, 2026",
-            "blockFunctionCreateDate": "Jul 31, 2026",
-            "blockFunctionUpdateDate": "Aug 31, 2026"
+            "deprecationDate": "Jun 30, 2027",
+            "blockFunctionCreateDate": "Jul 31, 2027",
+            "blockFunctionUpdateDate": "Aug 31, 2027"
         },
         {
             "name": "Java 11",
             "id": "java11",
             "os": "Amazon Linux 2",
-            "deprecationDate": "Jun 30, 2026",
-            "blockFunctionCreateDate": "Jul 31, 2026",
-            "blockFunctionUpdateDate": "Aug 31, 2026"
+            "deprecationDate": "Jun 30, 2027",
+            "blockFunctionCreateDate": "Jul 31, 2027",
+            "blockFunctionUpdateDate": "Aug 31, 2027"
         },
         {
             "name": "Java 8",
             "id": "java8.al2",
             "os": "Amazon Linux 2",
-            "deprecationDate": "Jun 30, 2026",
-            "blockFunctionCreateDate": "Jul 31, 2026",
-            "blockFunctionUpdateDate": "Aug 31, 2026"
+            "deprecationDate": "Jun 30, 2027",
+            "blockFunctionCreateDate": "Jul 31, 2027",
+            "blockFunctionUpdateDate": "Aug 31, 2027"
         },
         {
             "name": ".NET 10",
@@ -150,8 +150,8 @@
             "id": "ruby3.2",
             "os": "Amazon Linux 2",
             "deprecationDate": "Mar 31, 2026",
-            "blockFunctionCreateDate": "Jun 1, 2026",
-            "blockFunctionUpdateDate": "Jul 1, 2026"
+            "blockFunctionCreateDate": "Aug 31, 2026",
+            "blockFunctionUpdateDate": "Sep 30, 2026"
         },
         {
             "name": "OS-only Runtime",
@@ -165,9 +165,9 @@
             "name": "OS-only Runtime",
             "id": "provided.al2",
             "os": "Amazon Linux 2",
-            "deprecationDate": "Jun 30, 2026",
-            "blockFunctionCreateDate": "Jul 31, 2026",
-            "blockFunctionUpdateDate": "Aug 31, 2026"
+            "deprecationDate": "Jul 31, 2026",
+            "blockFunctionCreateDate": "Aug 31, 2026",
+            "blockFunctionUpdateDate": "Sep 30, 2026"
         }
     ]
 }
