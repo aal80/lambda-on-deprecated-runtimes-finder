@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-05-12T22:11:04.641Z",
+    "updatedAt": "2026-05-13T22:11:04.224Z",
     "deprecatedRuntimesData": [
         {
             "name": "Node.js 24",
@@ -54,8 +54,8 @@
             "id": "python3.10",
             "os": "Amazon Linux 2",
             "deprecationDate": "Oct 31, 2026",
-            "blockFunctionCreateDate": "Nov 30, 2026",
-            "blockFunctionUpdateDate": "Jan 15, 2027"
+            "blockFunctionCreateDate": "Feb 1, 2027",
+            "blockFunctionUpdateDate": "Mar 3, 2027"
         },
         {
             "name": "Java 25",
@@ -118,8 +118,8 @@
             "id": "dotnet8",
             "os": "Amazon Linux 2023",
             "deprecationDate": "Nov 10, 2026",
-            "blockFunctionCreateDate": "Dec 10, 2026",
-            "blockFunctionUpdateDate": "Jan 11, 2027"
+            "blockFunctionCreateDate": "Feb 1, 2027",
+            "blockFunctionUpdateDate": "Mar 3, 2027"
         },
         {
             "name": "Ruby 4.0",
@@ -158,8 +158,8 @@
             "id": "provided.al2",
             "os": "Amazon Linux 2",
             "deprecationDate": "Jul 31, 2026",
-            "blockFunctionCreateDate": "Aug 31, 2026",
-            "blockFunctionUpdateDate": "Sep 30, 2026"
+            "blockFunctionCreateDate": "Feb 1, 2027",
+            "blockFunctionUpdateDate": "Mar 3, 2027"
         }
     ]
 }
