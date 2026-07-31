@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-30T22:11:04.207Z",
+    "updatedAt": "2026-07-31T22:11:04.101Z",
     "deprecatedRuntimesData": [
         {
             "name": "Node.js 24",
@@ -72,6 +72,30 @@
             "deprecationDate": "Jun 30, 2029",
             "blockFunctionCreateDate": "Jul 31, 2029",
             "blockFunctionUpdateDate": "Aug 31, 2029"
+        },
+        {
+            "name": "Java 17",
+            "id": "java17.al2023",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
+            "name": "Java 11",
+            "id": "java11.al2023",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
+        {
+            "name": "Java 8",
+            "id": "java8.al2023",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
         },
         {
             "name": "Java 17",
@@ -152,14 +176,6 @@
             "deprecationDate": "Jun 30, 2029",
             "blockFunctionCreateDate": "Jul 31, 2029",
             "blockFunctionUpdateDate": "Aug 31, 2029"
-        },
-        {
-            "name": "OS-only Runtime",
-            "id": "provided.al2",
-            "os": "Amazon Linux 2",
-            "deprecationDate": "Jul 31, 2026",
-            "blockFunctionCreateDate": "Feb 1, 2027",
-            "blockFunctionUpdateDate": "Mar 3, 2027"
         }
     ]
 }
