@@ -1,6 +1,14 @@
 {
-    "updatedAt": "2026-08-13T22:11:04.216Z",
+    "updatedAt": "2026-08-14T22:11:03.943Z",
     "deprecatedRuntimesData": [
+        {
+            "name": "Node.js 26",
+            "id": "nodejs26.x",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
+        },
         {
             "name": "Node.js 24",
             "id": "nodejs24.x",
@@ -16,6 +24,14 @@
             "deprecationDate": "Apr 30, 2027",
             "blockFunctionCreateDate": "Jun 1, 2027",
             "blockFunctionUpdateDate": "Jul 1, 2027"
+        },
+        {
+            "name": "Python 3.15",
+            "id": "python3.15",
+            "os": "Amazon Linux 2023",
+            "deprecationDate": "Not scheduled",
+            "blockFunctionCreateDate": "Not scheduled",
+            "blockFunctionUpdateDate": "Not scheduled"
         },
         {
             "name": "Python 3.14",
@@ -77,25 +93,25 @@
             "name": "Java 17",
             "id": "java17.al2023",
             "os": "Amazon Linux 2023",
-            "deprecationDate": "Not scheduled",
-            "blockFunctionCreateDate": "Not scheduled",
-            "blockFunctionUpdateDate": "Not scheduled"
+            "deprecationDate": "Jun 30, 2029",
+            "blockFunctionCreateDate": "Jul 31, 2029",
+            "blockFunctionUpdateDate": "Aug 31, 2029"
         },
         {
             "name": "Java 11",
             "id": "java11.al2023",
             "os": "Amazon Linux 2023",
-            "deprecationDate": "Not scheduled",
-            "blockFunctionCreateDate": "Not scheduled",
-            "blockFunctionUpdateDate": "Not scheduled"
+            "deprecationDate": "Jun 30, 2029",
+            "blockFunctionCreateDate": "Jul 31, 2029",
+            "blockFunctionUpdateDate": "Aug 31, 2029"
         },
         {
             "name": "Java 8",
             "id": "java8.al2023",
             "os": "Amazon Linux 2023",
-            "deprecationDate": "Not scheduled",
-            "blockFunctionCreateDate": "Not scheduled",
-            "blockFunctionUpdateDate": "Not scheduled"
+            "deprecationDate": "Jun 30, 2029",
+            "blockFunctionCreateDate": "Jul 31, 2029",
+            "blockFunctionUpdateDate": "Aug 31, 2029"
         },
         {
             "name": "Java 17",
