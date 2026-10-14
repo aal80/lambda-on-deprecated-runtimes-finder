@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-10-13T22:11:04.077Z",
+    "updatedAt": "2026-10-14T22:11:03.892Z",
     "deprecatedRuntimesData": [
         {
             "name": "Node.js 26",
@@ -22,8 +22,8 @@
             "id": "nodejs22.x",
             "os": "Amazon Linux 2023",
             "deprecationDate": "Apr 30, 2027",
-            "blockFunctionCreateDate": "Jun 1, 2027",
-            "blockFunctionUpdateDate": "Jul 1, 2027"
+            "blockFunctionCreateDate": "Jul 29, 2027",
+            "blockFunctionUpdateDate": "Aug 31, 2027"
         },
         {
             "name": "Python 3.15",
