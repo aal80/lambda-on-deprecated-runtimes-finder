@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-11-11T22:11:03.767Z",
+    "updatedAt": "2026-11-12T22:11:04.012Z",
     "deprecatedRuntimesData": [
         {
             "name": "Node.js 26",
@@ -21,7 +21,7 @@
             "name": "Node.js 22",
             "id": "nodejs22.x",
             "os": "Amazon Linux 2023",
-            "deprecationDate": "Apr 30, 2027",
+            "deprecationDate": "May 30, 2027",
             "blockFunctionCreateDate": "Jul 29, 2027",
             "blockFunctionUpdateDate": "Aug 31, 2027"
         },
@@ -136,22 +136,6 @@
             "deprecationDate": "Nov 14, 2028",
             "blockFunctionCreateDate": "Dec 14, 2028",
             "blockFunctionUpdateDate": "Jan 15, 2029"
-        },
-        {
-            "name": ".NET 9 (container only)",
-            "id": "dotnet9",
-            "os": "Amazon Linux 2023",
-            "deprecationDate": "Nov 10, 2026",
-            "blockFunctionCreateDate": "Not scheduled",
-            "blockFunctionUpdateDate": "Not scheduled"
-        },
-        {
-            "name": ".NET 8",
-            "id": "dotnet8",
-            "os": "Amazon Linux 2023",
-            "deprecationDate": "Nov 10, 2026",
-            "blockFunctionCreateDate": "Jul 29, 2027",
-            "blockFunctionUpdateDate": "Aug 31, 2027"
         },
         {
             "name": "Ruby 4.0",
